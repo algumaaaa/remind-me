@@ -1,7 +1,7 @@
 # remind-me
 Fish shell script for a reminder alarm.  
 
-Usage:
+Usage:  
 remind-me time "optional-message"  
 eg.  
 remind-me 12:00 "coffee"  
